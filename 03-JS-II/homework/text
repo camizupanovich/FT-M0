@@ -1,0 +1,3 @@
+el operador && lógico comúnmente llamado "Y" ,o "and" en inlgés, se utiliza para evaluar ambas expresiones, en caso de que ambas sean verdaderas seran true. En caso contrario, si ninguna expresión o una de ellas es falsa nos devolvera false.
+el operador || significa "o" ("or" en inglés) evaluara si una o ambas es verdadera, en ese case nos devolvera true. Solo si ambas expresiones son falsas nos devolverá false.
+el operador ! significa "no" o "not" en inlgés, y devolverá el valor booleano opuesto. Es decir si nuestro valor es true nos devolverá false.
